@@ -25,7 +25,8 @@ Data includes:
 
  1. Loading the dataset
  2. Pre-processing the dataset
- 3. Review Text -->Text Vector
+ 3. Feature engineering
+ 	* Review Text -->Text Vector
  4. K-NN with different hyperparameter
  5. Accuracy
 
